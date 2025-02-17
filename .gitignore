@@ -185,3 +185,6 @@ week4/simple
 
 # ignore .csv files
 *.csv
+*.docx
+*.doc
+*.xlsx
